@@ -1,3 +1,5 @@
+package condicao;
+
 import java.util.Scanner;
 public class Condicao {
   public static void main(String[] args) {
